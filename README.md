@@ -11,6 +11,7 @@
 > 参考链接
 
 * [AnnualCodeReport](https://github.com/Norcy/AnnualCodeReport)
+* [MicromsgHistory](https://github.com/contr4l/MicromsgHistory)
 * [微信数据库解密](https://liujingyuan.top/2018/09/14/%E5%BE%AE%E4%BF%A1%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A7%A3%E5%AF%86/)
 * [如何备份微信的聊天记录？](https://www.zhihu.com/question/19924224/answer/69982884)
 * [爱情大数据 | 你的专属微信聊天记录统计](https://blog.csdn.net/iphilo/article/details/79052325)
